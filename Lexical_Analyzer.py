@@ -2,7 +2,7 @@
 # Tugas Besar Teori Bahasa Automata
 print("Tugas Besar Teori Bahasa Automata")
 print("Kelompok 4 Tugas Besar Mata Kuliah Teori Bahasa dan Automata")
-print("Muhammad Rafi Yanaputeranto (1301204352)\n Alif Babrizq Kuncara ()\n Noval Dzaki (1301190324)")
+print("Muhammad Rafi Yanaputeranto (1301204352)\n Alif Babrizq Kuncara ()\n Noval Dzaki ()")
 print("IF-44-12")
 print("==================================")
 import string
